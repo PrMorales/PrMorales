@@ -131,11 +131,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/></p>
+/>
 
-### 📊 Estatísticas
+<br/>
+<br/>
+<br/>
+<br/>
 
-<p>
+### 📊Estatísticas
+
 <img 
       align="left" 
       alt="GitHub Stats" 
