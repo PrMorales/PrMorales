@@ -1,7 +1,8 @@
 # 👩‍💻 Priscila Morales
 
-**`MBA em Análise e Ciência de Dados
-Estudante de Tecnologia da Informação`**
+**`MBA em Análise e Ciência de Dados`**
+<br/>
+**`Estudante de Tecnologia da Informação`**
 
 
 <p align="left">
