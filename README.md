@@ -154,8 +154,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on BootCamp Data Analytics WoMakersCode 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Squad Dorothy Vaughan - WoMakersCode
+- 🔭 Studying Information Technology at Univesp
+- 🌱 Studying Azure Frontier Girls - WoMakersCode
+- 👯 I’m participating in Hackathon Autism Tech 2025.
 - 🤔 I’m looking for help with find an inspiring work
 
